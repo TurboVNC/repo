@@ -9,7 +9,6 @@ gpgkey=https://packagecloud.io/dcommander/turbovnc/gpgkey
 enabled=1
 sslverify=1
 sslcacert=/etc/pki/tls/certs/ca-bundle.crt
-metadata_expire=300
 
 [TurboVNC-source]
 name=TurboVNC official SRPMs
@@ -22,4 +21,3 @@ gpgkey=https://packagecloud.io/dcommander/turbovnc/gpgkey
 enabled=1
 sslverify=1
 sslcacert=/etc/pki/tls/certs/ca-bundle.crt
-metadata_expire=300
